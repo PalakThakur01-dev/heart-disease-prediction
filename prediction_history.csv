@@ -1,0 +1,4 @@
+Age,Gender,RestingBP,Cholesterol,MaxHR,HeartDisease,Result,RiskProbability
+40,Male,120,200,150,0,Low Risk,1.5
+40,Male,120,200,150,0,Low Risk,1.5
+40,Male,120,200,150,0,Low Risk,1.2
