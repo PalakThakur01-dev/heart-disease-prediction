@@ -27,7 +27,7 @@ with col1:
 """)
 with col2:
     st.image("images/hero_banner_img/hero_banner1.jpg",width=450)
-    st.image("images\hero_banner_img\heart.jpg",width=450)
+    st.image("images/hero_banner_img/heart.jpg", width=450)
 with col3:
     st.image("images/hero_banner_img/hero_banner2.jpg",width=450)
     st.image("images/hero_banner_img/hero_banner3.jpg",width=450)
